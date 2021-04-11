@@ -29,11 +29,11 @@ int main()
 
   //here we show the rules of the game and ask if the players are ready or not,in order to start the game
    printf("\n\n-------------------------------START-------------------------------\n\n\n");
-   printf("RULES:\n\n 1) Any one player need to type Y if they are ready to start the game.\n 2) On the board the notation for each piece are as follow-\n    P=pawn\n    R=rook\n    N=knight\n    B=bishop\n    Q=queen\n    K=king");
-   printf("\n 3) Players will be shown the updated board after every move, and they will have to answer from which place you want to lift the piece, and after that where you want to place it.");
-   printf("\n 4) Here the capital letters are to be considered as white side and the small letters as black");
-   printf("\n 5) The game will end when the king of any one side is killed and the winner will be displayed");
-   printf("\n 6) The white(capitals) will have the first move.\n\n\n");
+   printf("RULES:\n\n 1.) Any one player need to type Y if they are ready to start the game.\n 2.) On the board the notation for each piece are as follow-\n    P=pawn\n    R=rook\n    N=knight\n    B=bishop\n    Q=queen\n    K=king");
+   printf("\n 3.) Players will be shown the updated board after every move, and they will have to answer from which place you want to lift the piece, and after that where you want to place it.");
+   printf("\n 4.) Here the capital letters are to be considered as white side and the small letters as black");
+   printf("\n 5.) The game will end when the king of any one side is killed and the winner will be displayed");
+   printf("\n 6.) The white(capitals) will have the first move.\n\n\n");
    printf("ARE YOU READY PLAYERS!!!!!!!\n");
    
    //here if the players are ready they type Y which we scan and then start the game
